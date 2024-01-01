@@ -15,8 +15,8 @@ University Proxy Switcher is a simple application built using Electron.js and Ta
 
 ## Installation
 
-1. Download the latest version from the [Releases](https://github.com/your-username/university-proxy-switcher/releases) page.
-2. Run the `setup.exe` file to install the application on your system.
+1. Download the latest version from the [Releases](https://github.com/lakpahana/uni-proxy-switcher-app/releases/tag/release) page.
+2. Run the `uni-proxy-switcher-app-1.0.0.Setup.exe` file to install the application on your system.
 
 ## Usage
 
@@ -31,7 +31,7 @@ If you want to contribute to the development of University Proxy Switcher, follo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/university-proxy-switcher.git
+git clone https://github.com/lakpahana/uni-proxy-switcher.git
 ```
 
 2. Install dependencies:
