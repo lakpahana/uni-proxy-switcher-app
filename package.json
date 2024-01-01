@@ -1,7 +1,7 @@
 {
   "name": "uni-proxy-switcher-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Uni proxy switcher app",
   "main": "index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -9,7 +9,7 @@
     "make": "electron-forge make"
   },
   "keywords": [],
-  "author": "",
+  "author": "lakpahana",
   "license": "ISC",
   "dependencies": {
     "electron-ipc": "^0.3.0",
